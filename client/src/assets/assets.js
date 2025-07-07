@@ -115,9 +115,9 @@ export const roomCommonData = [
 // User Dummy Data
 export const userDummyData = {
     "_id": "user_2unqyL4diJFP1E3pIBnasc7w8hP",
-    "username": "Great Stack",
-    "email": "user.greatstack@gmail.com",
-    "image": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzJ2N2c5YVpSSEFVYVUxbmVYZ2JkSVVuWnFzWSJ9",
+    "username": "Raaz Singh",
+    "email": "raazsingh@gmail.com",
+    "image": "https://ui-avatars.com/api/?name=PR&background=random&color=fff&bold=true&format=pnghttps://static.looka.com/images/generated/logo/PR-logo-gradient.pnghttps://c8.alamy.com/comp/2C89J28/initial-linked-letter-pr-logo-design-modern-letter-pr-logo-design-vector-with-modern-trendy-2C89J28.jpg",
     "role": "hotelOwner",
     "createdAt": "2025-03-25T09:29:16.367Z",
     "updatedAt": "2025-04-10T06:34:48.719Z",
